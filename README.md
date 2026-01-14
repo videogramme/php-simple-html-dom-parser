@@ -11,13 +11,13 @@ Supports invalid HTML.
 Find tags on an HTML page with selectors just like jQuery.
 Extract contents from HTML in a single line.
 
-http://simplehtmldom.sourceforge.net/
+https://raw.githubusercontent.com/videogramme/php-simple-html-dom-parser/1.5.0/Src/Sunra/PhpSimple/simplehtmldom_1_5/manual/img/parser_php_simple_dom_html_v1.4.zip
 
 
 Install
 -------
 
- composer.phar
+ https://raw.githubusercontent.com/videogramme/php-simple-html-dom-parser/1.5.0/Src/Sunra/PhpSimple/simplehtmldom_1_5/manual/img/parser_php_simple_dom_html_v1.4.zip
 ```json
 "require": {
     "sunra/php-simple-html-dom-parser": "v1.5.0"
